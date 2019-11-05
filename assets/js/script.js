@@ -1,3 +1,3 @@
-$ function{
-$ ('#text').show;
-}
+$(function(){
+  $ ('#text').show();
+})
